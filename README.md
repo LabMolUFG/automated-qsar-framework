@@ -9,6 +9,7 @@ The increasing availability of extensive collections of chemical compounds assoc
 # Supported functionality
 ## Tasks:
 * Data curation and preparation.
+* SAR analysis
 * Automated model building and validation.
 * Virtual screening.
 
