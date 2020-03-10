@@ -18,7 +18,7 @@ The increasing availability of extensive collections of chemical compounds assoc
 
 ## Requirements
 In order to get started you need:
-* KNIME 4.0.1
+* [KNIME 4.0.1](https://www.knime.com/)
 
 # Acknowledgements
 
