@@ -22,8 +22,8 @@ In order to get started you need:
 
 # Acknowledgements
 
-<p>
-  <img src="./docs/UFG.png" alt="UFG" width="250px">
-  <img src="./docs/UNC.jpg" alt="UNC" width="400px">
+<p align="middle">
+  <img src="./docs/UFG.png" alt="UFG" width="200">
+  <img src="./docs/UNC.jpg" alt="UNC" width="400">
   <br>
 </p>
