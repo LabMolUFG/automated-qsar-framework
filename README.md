@@ -22,6 +22,9 @@ In order to get started you need:
 * [KNIME 4.0.1](https://www.knime.com/)
 * [RDKit KNIME nodes](https://www.knime.com/rdkit)
 * [Indigo KNIME nodes](https://www.knime.com/community/indigo)
+* [Weka KNIME nodes](https://nodepit.com/iu/org.knime.features.ext.weka_3.7.feature.group)
+* [Enalos KNIME nodes](https://www.knime.com/community/enalos-nodes)
+* [ChemAxon KNIME nodes](https://www.knime.com/free-marvin-chemistry-extensions)
 
 # Acknowledgements
 
